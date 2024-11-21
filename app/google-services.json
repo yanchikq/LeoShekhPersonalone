@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209192306493",
+    "project_id": "leoshekhpersonalone",
+    "storage_bucket": "leoshekhpersonalone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209192306493:android:14b24490d20edb1b06a754",
+        "android_client_info": {
+          "package_name": "com.example.leoshekhpersonalone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN24cbYXuWpXsa80j2cI36PoMYZtjz75U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
